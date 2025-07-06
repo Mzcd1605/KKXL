@@ -1,10 +1,5 @@
 // Thay đổi nội dung búc thư ở đây
-var letterContent =" Chúc Mừng Sinh Nhật Đại Ka Của Bin 
-Hôm nay là một ngày vô cùng quan trọng mà bin khờ lại quơn mất ước gì giờ có cỗ máy thời gian là bin quay lại thời gian úp mặt zô gối kỉm điểm lại bản thân mất thui.Chúc đại ka sinh nhật zui zẻ nhá.Mong cho sức khỏe má đại ka hồi phục nhanh chóng để có thể quay lại bình thường .Năm sau cũng là một năm quan trọng với đại ka chúc đại ka năm sau sẽ đạt được điểm số cao đạt được trường mình mong mún nhó.Hem có tự ti nữa và ngủ sớm, ăn đúng bữa để tránh kiệt sức và đau dạ dày sức khỏe cải thiện hơn.
-Bin khờ hết văn òi
-ĐẠI KA ĐỪNG BÙN BIN NHÁ BIN XIN LŨI NHÌU Ạ
-KÍ TÊN
-BIN KHỜ QUÁ KHỜ
+var letterContent =" Cảm ơn em đã dành thời gian để nhìn những trò trẻ con của anhh và anh có những điều muốn gởi gắm đến tình iu của anhh❤️. Cảm ơn em đã đến bên anhh những lúc anh cô đơn buồn tủi nhất.Cuộc sống thực sự chẳng có ý nghĩa gì nếu không có em. Em làm cho anh luôn cảm thấy đặc biệt và hoàn hảo. Anh chẳng biết nói gì ngoài lời cảm ơn em, anh rất yêu em💕"
 
 // Tốc độ viết chữ. Số càng nhỏ tốc độ càng nhanh. 50 là tốc độ khá phù hợp
 durationWrite = 50 
